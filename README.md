@@ -107,3 +107,20 @@ ORDER BY Category;
 SELECT count(orderid) AS Order_Count
 FROM orders;
 ```
+## Analysis Queries
+
+These queries provide insights and analysis based on the pizza sales data.
+
+### Query 1: Retrieve Customer Names and Email Addresses
+```sql
+SELECT FirstName,LastName, Email FROM customers;
+```
+### Query 2: Find all orders with a total amount greater than $150. Include FirstName ,LastName,OrderID, CustomerID, and TotalAmount in the results.
+```sql
+SELECT 
+	ord.CustomerID, FirstName ,LastName,ord.OrderID, ord.TotalAmount 
+FROM orders AS ord
+JOIN customers AS cst
+ON ord.CustomerID = cst.CustomerID
+WHERE TotalAmount > 150;
+```
