@@ -121,7 +121,7 @@ ORDER BY Category;
 SELECT count(orderid) AS Order_Count
 FROM orders;
 ```
-## Data Analysis / Findings 
+## Analysis Queries
 
 These questions provide insights and analysis based on the pizza sales data.
 
