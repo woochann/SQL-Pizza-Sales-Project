@@ -19,9 +19,23 @@ Welcome to the Pizza Sales SQL Queries repository! This repository contains SQL 
 ## Overview
 
 This repository provides SQL scripts for:
-- Creating and setting up a `pizza_sales` database.
-- Defining tables for customers, pizzas, orders, and order items.
-- Performing data exploration and analysis on pizza sales data.
+## Overview
+
+The **Pizza Sales Database** project offers a set of SQL scripts to manage and analyze a database for pizza sales. It includes:
+
+- **Database Setup**: Create tables for customers, pizzas, orders, and order items.
+- **Data Exploration**: Basic queries to explore the data, like counting customers and listing pizza types.
+- **Advanced Analysis**: Queries to analyze sales trends, customer spending, pizza popularity, and revenue insights.
+
+### Key Features
+
+- **Understand Customer Behavior**: Identify top customers and their spending habits.
+- **Track Pizza Sales**: See which pizzas are most popular and profitable.
+- **Analyze Revenue**: Review monthly and regional revenue to optimize strategies.
+
+Use this project to gain insights into your pizza sales and make data-driven decisions.
+
+For questions or more details, please refer to the [Contact](#contact) section below.
 
 ## Database Schema
 
