@@ -10,6 +10,7 @@ Welcome to the Pizza Sales SQL Queries repository! This repository contains SQL 
 - [Database Schema](#database-schema)
 - [Data Exploration Queries](#data-exploration-queries)
 - [Analysis Queries](#analysis-queries)
+- [Findings](#findings)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -252,12 +253,12 @@ GROUP BY
 
 * Customer Base: The number of customers and their details are well recorded, with unique email addresses and complete information.
 
-*Pizza Varieties: The database includes a range of pizza categories, sizes, and prices, allowing for diverse menu offerings.
+* Pizza Varieties: The database includes a range of pizza categories, sizes, and prices, allowing for diverse menu offerings.
 
-*Order Insights: Orders with higher total amounts are easily identified, and insights into frequent orders and high spenders can be extracted.
+* Order Insights: Orders with higher total amounts are easily identified, and insights into frequent orders and high spenders can be extracted.
 
-*Revenue Analysis: Revenue trends by month and category, as well as the highest-priced pizzas and most frequently ordered items, are readily available.
+* Revenue Analysis: Revenue trends by month and category, as well as the highest-priced pizzas and most frequently ordered items, are readily available.
 
-*Customer Spending: Top customers and their spending patterns are tracked, providing valuable insights for targeted marketing.
+* Customer Spending: Top customers and their spending patterns are tracked, providing valuable insights for targeted marketing.
 
 
