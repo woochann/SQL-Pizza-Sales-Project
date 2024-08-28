@@ -87,11 +87,15 @@ CREATE TABLE OrderItems (
     FOREIGN KEY (PizzaID) REFERENCES Pizzas(PizzaID)
 );
 ```
-### Data Exploration Queries
+## Data Exploration Queries
 
 These queries help in exploring the data and understanding the contents of the tables.
 
-Query 1: Number of Customers
+### Query 1: Number of Customers
+```sql
+SELECT count(*) AS Cust_count FROM customers;
+```
 
+### Query 1: Number of Customers
 
 
