@@ -1,6 +1,5 @@
-# SQL-Pizza-Sales-Project
+# Pizza Sales Analysis SQL project P2
 
-# Pizza Sales SQL Queries
 
 Welcome to the Pizza Sales SQL Queries repository! This repository contains SQL scripts for managing and analyzing a pizza sales database. It includes scripts for creating the database, defining tables, and performing various analyses on the data.
 
@@ -13,7 +12,7 @@ Welcome to the Pizza Sales SQL Queries repository! This repository contains SQL 
 - [Findings](#findings)
 - [Reports](#Reports)
 - [Conclusion](#Conclusion)
-- [Usage](#Usage)
+- [How to use](#How-to-use)
 - [Author](#Author)
 - [Contact](#contact)
 
@@ -299,7 +298,8 @@ GROUP BY
 
 * Customer Retention: Understanding the average time between orders can help tailor loyalty programs and promotional strategies to encourage repeat business.
 
-## Usage
+## How to Use
+
 Feel free to use the dataset and the SQL queries.
 
 
