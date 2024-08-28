@@ -43,3 +43,16 @@ CREATE TABLE Customers (
     ZipCode VARCHAR(10),
     JoinDate DATE
 );
+
+Pizzas Table
+Stores details about different pizzas.
+
+CREATE TABLE Pizzas (
+    PizzaID INT PRIMARY KEY,
+    Name VARCHAR(50) NOT NULL,
+    Size VARCHAR(20) NOT NULL,
+    Price DECIMAL(10, 2) NOT NULL,
+    Category VARCHAR(20) NOT NULL
+);
+
+
