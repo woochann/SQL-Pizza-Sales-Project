@@ -13,7 +13,7 @@ Welcome to the Pizza Sales SQL Queries repository! This repository contains SQL 
 - [Findings](#findings)
 - [Reports](#Reports)
 - [Conclusion](#Conclusion)
-- [License](#license)
+- [Author](#Author)
 - [Contact](#contact)
 
 ## Overview
@@ -108,9 +108,9 @@ ORDER BY Category;
 SELECT count(orderid) AS Order_Count
 FROM orders;
 ```
-## Analysis Queries
+## Data Analysis / Findings 
 
-These queries provide insights and analysis based on the pizza sales data.
+These questions provide insights and analysis based on the pizza sales data.
 
 ### Q1: Retrieve Customer Names and Email Addresses
 ```sql
@@ -285,3 +285,12 @@ GROUP BY
 * Regional Insights: Some states contribute more to revenue, indicating potential areas for expansion or targeted promotions.
 
 * Customer Retention: Understanding the average time between orders can help tailor loyalty programs and promotional strategies to encourage repeat business.
+
+## Author - JATIN THAKUR
+
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+## Contact 
+LinkedIN - (www.linkedin.com/in/jatinthakur2004)
+Discord - (https://discord.com/channels/@me)
+Email - (jatinthakur.uk@gmail.com)
