@@ -96,6 +96,14 @@ These queries help in exploring the data and understanding the contents of the t
 SELECT count(*) AS Cust_count FROM customers;
 ```
 
-### Query 1: Number of Customers
+### Query 2: Types of Pizzas and Categories
+```sql
+SELECT Name, Category FROM pizzas
+ORDER BY Category;
+```
 
-
+### Query 3: Total Number of Orders
+```sql
+SELECT count(orderid) AS Order_Count
+FROM orders;
+```
