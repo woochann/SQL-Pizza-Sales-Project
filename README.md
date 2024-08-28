@@ -303,6 +303,6 @@ GROUP BY
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 ## Contact 
-LinkedIN - (www.linkedin.com/in/jatinthakur2004)
-Discord - (https://discord.com/channels/@me)
+LinkedIN - [Connect with me](#www.linkedin.com/in/jatinthakur2004)
+Discord  - (https://discord.com/channels/@me)
 Email - (jatinthakur.uk@gmail.com)
