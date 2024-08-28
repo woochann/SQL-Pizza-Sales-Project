@@ -13,7 +13,8 @@ Welcome to the Pizza Sales SQL Queries repository! This repository contains SQL 
 - [Findings](#findings)
 - [Reports](#Reports)
 - [Conclusion](#Conclusion)
-- [Author](#Author (JATIN THAKUR))
+- [Usage](#Usage)
+- [Author](#Author)
 - [Contact](#contact)
 
 
@@ -298,14 +299,31 @@ GROUP BY
 
 * Customer Retention: Understanding the average time between orders can help tailor loyalty programs and promotional strategies to encourage repeat business.
 
-## Author (JATIN THAKUR)
+## Usage
+Feel free to use the dataset and the SQL queries.
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+### Set Up the Database
+
+1. **Create the Database**: Run the provided SQL scripts to set up the `pizza_sales` database and create its tables.
+
+2. **Import Data**: Use your database management tool’s import wizard to load data from CSV files into the corresponding tables in the database.
+
+### Running Queries
+
+1. **Explore Data**: Use the exploration queries to get insights into the data, such as counting customers and listing pizza types.
+
+2. **Analyze Data**: Execute the analysis queries to gather detailed insights into sales trends, customer behavior, and revenue.
+
+For detailed instructions on running queries and interpreting results, refer to the provided SQL scripts.
+
+## Author 
+
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch. Thank you for visiting !!
 
 ## Contact 
 
 * LinkedIN - 	(www.linkedin.com/in/jatinthakur2004)
 * Discord  - 	(https://discord.com/channels/@me)
-* Email    -	(jatinthakur.uk@gmail.com)
+* Email     -	(jatinthakur.uk@gmail.com)
 
-## Thank you for your support, and I look forward to connecting with you!
