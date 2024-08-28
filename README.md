@@ -16,9 +16,7 @@ Welcome to the Pizza Sales SQL Queries repository! This repository contains SQL 
 - [Author](#Author)
 - [Contact](#contact)
 
-## Overview
 
-This repository provides SQL scripts for:
 ## Overview
 
 The **Pizza Sales Database** project offers a set of SQL scripts to manage and analyze a database for pizza sales. It includes:
