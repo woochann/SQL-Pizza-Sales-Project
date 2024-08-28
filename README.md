@@ -13,7 +13,7 @@ Welcome to the Pizza Sales SQL Queries repository! This repository contains SQL 
 - [Findings](#findings)
 - [Reports](#Reports)
 - [Conclusion](#Conclusion)
-- [Author](#Author)
+- [Author](#Author (JATIN THAKUR))
 - [Contact](#contact)
 
 
@@ -307,4 +307,5 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 * LinkedIN - 	(www.linkedin.com/in/jatinthakur2004)
 * Discord  - 	(https://discord.com/channels/@me)
 * Email    -	(jatinthakur.uk@gmail.com)
-	
+
+## Thank you for your support, and I look forward to connecting with you!
