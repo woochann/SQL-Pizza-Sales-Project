@@ -8,11 +8,11 @@ Welcome to the Pizza Sales SQL Queries repository! This repository contains SQL 
 
 - [Overview](#overview)
 - [Database Schema](#database-schema)
-- [Data Exploration Queries](#data-exploration-queries)
+- [Data Exploration ](#data-exploration)
 - [Analysis Queries](#analysis-queries)
 - [Findings](#findings)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Reports](#Reports)
+- [Conclusion](#Conclusion)
 - [License](#license)
 - [Contact](#contact)
 
@@ -88,7 +88,7 @@ CREATE TABLE OrderItems (
     FOREIGN KEY (PizzaID) REFERENCES Pizzas(PizzaID)
 );
 ```
-## Data Exploration Queries
+## Data Exploration 
 
 These queries help in exploring the data and understanding the contents of the tables.
 
