@@ -47,6 +47,7 @@ CREATE TABLE Customers (
 ### Pizzas Table
 
 Stores details about different pizzas.
+
 ```sql
 CREATE TABLE Pizzas (
     PizzaID INT PRIMARY KEY,
@@ -55,5 +56,42 @@ CREATE TABLE Pizzas (
     Price DECIMAL(10, 2) NOT NULL,
     Category VARCHAR(20) NOT NULL
 );
+```
+### Orders Table
+
+Stores information about customer orders
+
+```sql
+CREATE TABLE Orders (
+    OrderID INT PRIMARY KEY,
+    CustomerID INT NOT NULL,
+    OrderDate DATE NOT NULL,
+    TotalAmount DECIMAL(10, 2) NOT NULL,
+    DeliveryAddress VARCHAR(100),
+    Status VARCHAR(20),
+    FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID)
+);
+```
+### Order Items Table
+
+Stores details about the items in each order.
+
+```sql
+CREATE TABLE OrderItems (
+    OrderID INT NOT NULL,
+    PizzaID INT NOT NULL,
+    Quantity INT NOT NULL,
+    Price DECIMAL(10, 2) NOT NULL,
+    PRIMARY KEY (OrderID, PizzaID),
+    FOREIGN KEY (OrderID) REFERENCES Orders(OrderID),
+    FOREIGN KEY (PizzaID) REFERENCES Pizzas(PizzaID)
+);
+```
+### Data Exploration Queries
+
+These queries help in exploring the data and understanding the contents of the tables.
+
+Query 1: Number of Customers
+
 
 
