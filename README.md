@@ -298,11 +298,13 @@ GROUP BY
 
 * Customer Retention: Understanding the average time between orders can help tailor loyalty programs and promotional strategies to encourage repeat business.
 
-## Author - JATIN THAKUR
+## Author (JATIN THAKUR)
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 ## Contact 
-LinkedIN - [Connect with me](#www.linkedin.com/in/jatinthakur2004)
-Discord  - (https://discord.com/channels/@me)
-Email - (jatinthakur.uk@gmail.com)
+
+* LinkedIN - 	(www.linkedin.com/in/jatinthakur2004)
+* Discord  - 	(https://discord.com/channels/@me)
+* Email    -	(jatinthakur.uk@gmail.com)
+	
