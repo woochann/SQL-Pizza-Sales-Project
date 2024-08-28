@@ -247,3 +247,12 @@ WHERE
 GROUP BY 
     C.CustomerID, C.FirstName, C.LastName, C.Email, C.PhoneNumber;
 ```
+
+## Findings
+Customer Base: The number of customers and their details are well recorded, with unique email addresses and complete information.
+Pizza Varieties: The database includes a range of pizza categories, sizes, and prices, allowing for diverse menu offerings.
+Order Insights: Orders with higher total amounts are easily identified, and insights into frequent orders and high spenders can be extracted.
+Revenue Analysis: Revenue trends by month and category, as well as the highest-priced pizzas and most frequently ordered items, are readily available.
+Customer Spending: Top customers and their spending patterns are tracked, providing valuable insights for targeted marketing.
+
+
