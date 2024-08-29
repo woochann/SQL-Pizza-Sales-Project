@@ -219,7 +219,7 @@ FROM Orders
 GROUP BY CustomerID
 LIMIT 5;
 ```
-### Q10: Identify the pizzas that are ordered the most frequently, including PizzaID, PizzaName, and TotalQuantityOrdered. Use a subquery to aggregate the data.
+### Q10: Identify the pizzas that are ordered the most frequently, including PizzaID, PizzaName, and TotalQuantityOrdered.
 ```sql
 SELECT 
     P.PizzaID,
@@ -285,6 +285,7 @@ GROUP BY
 * State-Wise Revenue Report: Highlights which states generate the most revenue, useful for regional marketing strategies.
 
 * Order Frequency Report: Provides data on average days between orders for each customer, aiding in customer engagement strategies.
+  
 
 ## Conclusions
 
@@ -297,6 +298,7 @@ GROUP BY
 * Regional Insights: Some states contribute more to revenue, indicating potential areas for expansion or targeted promotions.
 
 * Customer Retention: Understanding the average time between orders can help tailor loyalty programs and promotional strategies to encourage repeat business.
+
 
 ## How to Use
 
@@ -323,7 +325,7 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 ## Contact 
 
-* LinkedIN - 	(www.linkedin.com/in/jatinthakur2004)
-* Discord  - 	(https://discord.com/channels/@me)
-* Email     -	(jatinthakur.uk@gmail.com)
+	* LinkedIN - 	(www.linkedin.com/in/jatinthakur2004)
+	* Discord  - 	(https://discord.com/channels/@me)
+	* Email    -	(jatinthakur.uk@gmail.com)
 
