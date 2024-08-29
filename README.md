@@ -325,7 +325,7 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 ## Contact 
 
-	* LinkedIN - 	(www.linkedin.com/in/jatinthakur2004)
-	* Discord  - 	(https://discord.com/channels/@me)
-	* Email    -	(jatinthakur.uk@gmail.com)
+*LinkedIN* - 	(www.linkedin.com/in/jatinthakur2004)
+*Discord*  - 	(https://discord.com/channels/@me)
+*Email*    -	(jatinthakur.uk@gmail.com)
 
