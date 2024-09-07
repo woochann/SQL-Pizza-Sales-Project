@@ -1,0 +1,7 @@
+PizzaID,Name,Size,Price,Category
+1,Margherita,Medium,12.99,Vegetarian
+2,Pepperoni,Large,15.99,Meat
+3,Seafood Delight,Large,18.99,Seafood
+4,BBQ Chicken,Medium,14.99,Meat
+5,Veggie Supreme,Large,16.99,Vegetarian
+6,Hawaiian,Medium,13.99,Meat
